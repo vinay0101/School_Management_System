@@ -4,6 +4,6 @@ The video explanation has been uploaded [here](https://drive.google.com/file/d/1
 All the important required documents can be found [here](https://drive.google.com/drive/folders/121OgujbWx0codiVHx2NfUBOChM3QfcHE?usp=sharing).
 
 ## UML Case Diagram
-(https://github.com/vinay0101/School_Management_System/blob/main/UML_Final_.png)
+
 <img src="https://github.com/vinay0101/School_Management_System/blob/main/UML_Final_.png"></img>
 
